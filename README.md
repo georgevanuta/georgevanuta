@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @georgevanuta
-- 👀 I’m interested in all things programming, mostly machine learning and I also do powerlifting.
+- 👀 I’m interested in all things programming, mostly functional programming and I also do powerlifting.
 - 🌱 I’m currently learning a lot of things in college.
 
 <!---
