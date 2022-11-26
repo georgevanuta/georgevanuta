@@ -1,4 +1,4 @@
-- I like Haskell and anything that's interesting.
+- I like Haskell, Scala, Parallel programming, Compilers and anything that's interesting.
 
 <!---
 georgevanuta/georgevanuta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
